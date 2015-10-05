@@ -1,4 +1,4 @@
-#BPLC
+# BPLC
 
 Python script for launch interpreters (compilers) for specified files by extension with additional capabilities.
 
